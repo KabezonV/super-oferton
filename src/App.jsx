@@ -12,6 +12,7 @@ const App = () => {
       <header></header>
 
       <OfferList />
+
       <footer></footer>
     </>
   );
